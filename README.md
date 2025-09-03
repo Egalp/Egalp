@@ -1,16 +1,30 @@
-## Hi there 👋
+### 👋 Привет! Egalpra это мой ник для аккаунтов, связанных с работой.
 
-<!--
-**Egalp/Egalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Моя основная деяетельность -- pega-разработчик.
+В свободное время занимаюсь созданием инструментов для стримеров и изучением новых технологий.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Мой стек технологий
+*   **Языки:** Java, C#
+*   **Фреймворки:** TBR
+*   **Инструменты:** Git, Docker, GitHub Actions
+
+---
+
+### 📂 Мои ключевые проекты
+
+Помимо учебных проектов, я также участвую в разработке под брендом **NuboHiemer**:
+
+> 💡 *Все проекты NuboHiemer находятся в [организации NuboHiemer for streamers]([https://github.com/NuboHiemer-Org](https://github.com/NuboHeimer-for-streamers))*
+
+---
+
+### 📫 Как со мной связаться
+*   **Email (для работы):** egalpra@gmail.com
+*   **Telegram:** [@egalpra](https://t.me/egalpra)
+
+> ⚠ По нерабочим вопросам просьба связываться по контактам в профиле NuboHeimer.
+---
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=egalpra&show_icons=true&theme=radical)
