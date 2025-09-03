@@ -27,5 +27,4 @@
 > ⚠ По нерабочим вопросам просьба связываться по контактам в профиле NuboHeimer.
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=egalp&show_icons=true&theme=radical)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuboheimer&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=egalp&show_icons=true&theme=radical) ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuboheimer&show_icons=true&theme=radical)
