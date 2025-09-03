@@ -16,7 +16,7 @@
 
 Помимо учебных проектов, я также участвую в разработке под брендом **NuboHiemer**:
 
-> 💡 *Все проекты NuboHiemer находятся в [организации NuboHiemer for streamers]([https://github.com/NuboHiemer-Org](https://github.com/NuboHeimer-for-streamers))*
+> 💡 *Все проекты NuboHiemer находятся в [организации NuboHiemer for streamers](https://github.com/NuboHeimer-for-streamers)*
 
 ---
 
