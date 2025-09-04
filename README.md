@@ -104,4 +104,4 @@
 *   **Желаемая должность:** Разработчик / Руководитель группы разработки / DevOps
 *   **Желаемая зарплата:** 200 000 ₽ (на руки)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=egalp&show_icons=true&theme=radical) ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuboheimer&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=egalpra&show_icons=true&theme=radical) ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuboheimer&show_icons=true&theme=radical)
